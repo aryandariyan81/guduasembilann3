@@ -1,0 +1,4 @@
+baseURL = "https://famouspoems-xeert.vercel.app"
+languageCode = "en-us"
+title = "Beauty Famous Poems"
+theme = "tale-hugo-master"
